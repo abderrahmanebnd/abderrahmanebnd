@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Computer science student in my second year at the Higher School of Computer Science ESI-SBA.<br><br>⚛ Currently immersing myself in ReactJS to build dynamic web applications.<br><br>🏢 Collaborating on an exciting university project focused on web development.<br><br>🙋‍♂️ Feel free to reach out for assistance with problem-solving or coding challenges!<br><br>⚡ Fun fact: I have a passion for JavaScript and its quirks!
+💻 Computer science student in my third year at the Higher School of Computer Science ESI-SBA.<br><br>⚛ Currently immersing myself in ReactJS to build dynamic web applications.<br><br>🏢 Collaborating on an exciting university project focused on web development.<br><br>🙋‍♂️ Feel free to reach out for assistance with problem-solving or coding challenges!<br><br>⚡ Fun fact: I have a passion for JavaScript and its quirks!
 
 
 ## 🌐 Socials:
