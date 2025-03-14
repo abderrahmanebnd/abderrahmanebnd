@@ -1,15 +1,13 @@
 # Hi there, I'm Abderrahmane 👋
 
 ## 💫 About Me
-I'm a third-year Computer Science student at the Higher School of Computer Science ESI-SBA. I'm currently diving deep into **ReactJS** to build dynamic web applications and collaborating on an exciting university project in web development. Whether you need help with coding challenges or creative problem-solving, feel free to reach out!
-
-> **Fun fact:** I’m passionate about JavaScript and love exploring its quirks!
-
+I'm a third-year Computer Science student at the Higher School of Computer Science ESI-SBA. I'm currently diving deep into MERN stack to build dynamic web applications and collaborating on an exciting university project in web development. Whether you need help with coding challenges or creative problem-solving, feel free to reach out!
 ---
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bendaia-abderrahmane-80b3a027b)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/abderrahmane1110)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/abderrahmane1110)
 
 ---
 
@@ -58,3 +56,4 @@ Additionally, I have experience with **Redux** and **Java**, rounding out my ful
     <img src="https://visitcount.itsvg.in/api?id=abderrahmanebnd&icon=0&color=0" alt="Visitor Count" />
   </a>
 </p>
+
