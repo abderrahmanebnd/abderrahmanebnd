@@ -1,7 +1,7 @@
-# Hi there, I'm Abderrahmane 👋
+# Hi there, I'm Abderrahmane 
 
 ## 💫 About Me
-I'm a third-year Computer Science student at the Higher School of Computer Science ESI-SBA. I'm currently diving deep into MERN stack to build dynamic web applications and collaborating on an exciting university project in web development. Whether you need help with coding challenges or creative problem-solving, feel free to reach out!
+I’m a full stack developer with expertise in MERN Stack (MongoDB, Express.js, React.js, Node.js), along with SQL databases, TypeScript, and Next.js for modern, SEO-friendly, and highly optimized application, feel free to reach out!
 ---
 
 ## 🌐 Connect with Me
